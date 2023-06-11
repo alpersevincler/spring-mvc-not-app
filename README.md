@@ -1,4 +1,5 @@
-# spring-mvc-not-app
+# Spring Mvc Not App
+
 Spring MVC Note Application
 
 # Android Campaigns
